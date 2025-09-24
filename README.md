@@ -5,7 +5,7 @@ This repo tracks my journey of learning **competitive programming using Python**
 ## 🎯 Goals
 - Progress from **8kyu → 1kyu** in Codewars
 - Build strong problem-solving skills
-- Compete in Codeforces / AtCoder contests
+- Compete in Umak Python Programming
 - Develop reusable algorithm templates
 
 ## 📅 Roadmap
